@@ -1,4 +1,3 @@
-# pt-ken-mandiri-business-system
 # PT Ken Mandiri Business Information System
 
 ## About the Project
